@@ -1,9 +1,5 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+Esta é um reprodução do BootCamp da DIO
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+# Yu-Gi-Oh | Jo-ken-po Edition 
 
-conceitos abordados:
-
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+instrutor Felipe Aguiar.
